@@ -1,0 +1,21 @@
+{
+    "command": {
+        "error": "Oh no! An error occurred. Please try again or contact us through our server.",
+        "cooldown": "Please wait, you are on a cooldown for `{{commandName}}`. You can use it again <t:{{expiredTimestamp}}:R>."
+    },
+    "help": {
+        "author": "{{bot_username}} | Help",
+        "field1": {
+            "name": "Plans for GVO",
+            "value": "> We have a lot of plans for **{{bot_username}}** (GVO). These include a variety of modules, such as automatic quotes, channel statistics, welcome & goodbye system, and many more exciting features!"
+        },
+        "field2": {
+            "name": "Bot Statistics",
+            "value": "> **Guilds:** `{{guildCount}}`\n> **Users:** `{{userCount}}`"
+        },
+        "field3": {
+            "name": "Links",
+            "value": "> [Invite GVO]({{inviteLink}}) and [Join our Support Server]({{discordLink}})\n> Don't forget to visit our [Ko-fi Page]({{kofiLink}}) for more!"
+        }
+    }
+}
