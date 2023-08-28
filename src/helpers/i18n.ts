@@ -5,43 +5,41 @@ const prisma = new PrismaClient();
 
 // Define the languages supported
 export const supportedLanguages = [
-    'bg', // Bulgarian
-    'cs', // Czech
-    'da', // Danish
-    'de', // German
-    'el', // Greek
-    'en-GB', // English, UK
-    'en-US', // English, US
-    'es-ES', // Spanish
-    'fi', // Finnish
-    'fr', // French
-    'hi', // Hindi
-    'hr', // Croatian
-    'hu', // Hungarian
-    'id', // Indonesian
-    'it', // Italian
-    'ja', // Japanese
-    'ko', // Korean
-    'lt', // Lithuanian
-    'nl', // Dutch
-    'no', // Norwegian
-    'pl', // Polish
-    'pt-BR', // Portuguese, Brazilian
-    'ro', // Romanian, Romania
-    'ru', // Russian
-    'sv-SE', // Swedish
-    'th', // Thai
-    'tr', // Turkish
-    'uk', // Ukrainian
-    'vi', // Vietnamese
-    'zh-CN', // Chinese, China
-    'zh-TW', // Chinese, Taiwan
+    'af_ZA', // Afrikaans
+    'ar_SA', // Arabic
+    'ca_ES', // Catalan
+    'zh_CN', // Chinese Simplified
+    'zh_TW', // Chinese Traditional
+    'cs_CZ', // Czech
+    'da_DK', // Danish
+    'nl_NL', // Dutch
+    'en_US', // English, United States
+    'fi_FI', // Finnish
+    'fr_FR', // French
+    'de_DE', // German
+    'el_GR', // Greek
+    'he_IL', // Hebrew
+    'hu_HU', // Hungarian
+    'it_IT', // Italian
+    'ja_JP', // Japanese
+    'no_NO', // Norwegian
+    'pl_PL', // Polish
+    'pt_PT', // Portuguese
+    'pt_BR', // Portuguese, Brazilian
+    'ro_RO', // Romanian
+    'ru_RU', // Russian
+    'sr_SP', // Serbian (Cyrillic)
+    'es_ES', // Spanish
+    'sv_SE', // Swedish
+    'tr_TR', // Turkish
+    'uk_UA', // Ukrainian
+    'vi_VN', // Vietnamese
 ];
 
 // Initialize i18next
 i18next.use(backend).init({
-    lng: 'en-US', // Default language
-    fallbackLng: 'en-US', // Fallback language
+    lng: 'en_US', // Default language
+    fallbackLng: 'en_US', // Fallback language
     preload: supportedLanguages, // Preload available languages
     ns: ['common'], // Namespace for translation files (create 'common.json' for each language)
     backend: {
