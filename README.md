@@ -16,24 +16,25 @@ Welcome to the repository for GVO - the coolest Discord bot out there! This bot 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+-   [Introduction](#introduction)
+-   [Features](#features)
+-   [Installation](#installation)
+-   [Usage](#usage)
+-   [Contributing](#contributing)
+-   [License](#license)
 
 ## Introduction
 
-GVO is a Discord bot built using [Discord.js](https://discord.js.org/), designed to make your server interactions more engaging and entertaining. It's developed with a focus on simplicity, customization, and of course, awesomeness.
+GVO is a Discord bot built using [Discord.js](https://discord.js.org/), designed to make your server interactions more engaging and entertaining. It's developed with a focus on simplicity, customization, and of course, good vibes!
 
 ## Features
 
-- **Random Quotes**: Spice up the conversation with random quotes on daily basis.
-- **Social Media**: Get notified when your favorite streamer goes live!
-- **Polls**: Conduct polls among your server members to gather opinions quickly.
-- **Moderation Tools**: Keep your server in check with built-in auto-moderation.
-- **And More!**: Explore the bot to discover even more awesome features.
+-   **Random Quotes**: Spice up the conversation with random quotes on daily basis.
+-   **Social Media**: Get notified when your favorite streamer goes live!
+-   **Polls**: Conduct polls among your server members to gather opinions quickly.
+-   **Moderation Tools**: Keep your server in check with built-in auto-moderation.
+-   **Multiple Languages**: Get the in your server in the language that fits your server
+-   **And More!**: Explore the bot to discover even more awesome features.
 
 ## Installation
 
@@ -52,7 +53,7 @@ If you want to host the bot yourself, follow these steps:
 
 Once GVO is in your server, you can use various commands to unleash its awesomeness:
 
-- `/help`: Display the list of available commands and how to use them.
+-   `/help`: Display the list of available commands and how to use them.
 
 ## Contributing
 
