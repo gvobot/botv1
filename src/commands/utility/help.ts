@@ -38,8 +38,7 @@ const command: CommandInterface = {
                         kofiLink: client.config.links.kofi,
                     }),
                 },
-            )
-            .setFooter({ text: `Support my work by donating @ ko-fi.com/DuckoDas` });
+            );
 
         interaction.reply({ embeds: [Embed] });
     },
