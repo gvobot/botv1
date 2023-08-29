@@ -2,7 +2,17 @@
 
 [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-orange.svg)](https://sonarcloud.io/summary/new_code?id=gvobot_bot)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J1FVEH0)
+<p align="left">
+    <a href="https://paypal.me/sapphiredevs">
+        <img src="https://img.shields.io/badge/Paypal-Donate?style=for-the-badge&logo=paypal&label=Donate&color=008cd4" alt="Donate on PayPal">
+    </a>
+    <a href="https://ko-fi.com/duckodas">
+        <img src="https://img.shields.io/badge/Kofi-Support?style=for-the-badge&logo=kofi&label=Support&color=ff5e5b" alt="Support on Ko-Fi">
+    </a>
+    <a href="https://discord.gg/75QR5duadJ">
+        <img src="https://img.shields.io/badge/Discord-Join?style=for-the-badge&logo=discord&label=Join&color=5865f2" alt="Join Discord">
+    </a>
+</p>
 
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=gvobot_bot&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=gvobot_bot)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=gvobot_bot&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=gvobot_bot)
