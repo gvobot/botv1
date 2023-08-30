@@ -21,6 +21,7 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=gvobot_bot&metric=bugs)](https://sonarcloud.io/summary/new_code?id=gvobot_bot)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=gvobot_bot&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=gvobot_bot)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=gvobot_bot&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=gvobot_bot)
+[![Crowdin](https://badges.crowdin.net/gvobot/localized.svg)](https://translate.gvobot.app/project/gvobot)
 
 Welcome to the repository for GVO - the coolest Discord bot out there! This bot is designed to add a touch of awesomeness to your server, bringing in a range of fun and useful features that will surely enhance your Discord experience.
 
